@@ -1,6 +1,6 @@
 # Predicting adult salary
 
-This repository contains a Jupyter Notebook for training and analyzing machine learning models on the Adult dataset. The purpose of this script is to predict whether an individual's income exceeds $50K/year based on various demographic features.
+This repository contains a Jupyter Notebook for training and analyzing machine learning models on the [Adult dataset](https://archive.ics.uci.edu/dataset/2/adult). The purpose of this script is to predict whether an individual's income exceeds $50K/year based on various demographic features.
 
 ## Dataset
 The dataset used in this analysis is the Adult dataset, sourced from the UCI Machine Learning Repository. It contains demographic information such as age, education, occupation, etc., and the target variable is the income level categorized as either >50K or <=50K.
@@ -46,5 +46,14 @@ pip install -U matplotlib
 - Detailed results including model parameters, precision, recall, and F1-score are provided in the notebook.
 
 ## Conclusion
-The Logistic Regression model trained on the Adult dataset demonstrates good performance in predicting income levels. Further optimization and fine-tuning of the model parameters may lead to even better results.
+The **Logistic Regression** model trained on the Adult dataset demonstrates good performance in predicting income levels. Further optimization and fine-tuning of the model parameters may lead to even better results.
+
+## Team memebers
+| # | Name  | ID |
+| - |------------- | ------- |
+| 1 |[Youssef Wael Hamdy Ibrahim Ashmawy](https://github.com/youssefashmawy)  | 2001430 |
+| 2 |[Fathy Abdlhady Fathy](https://github.com/FathyAbdlhady)  | 2001152 |
+| 3 |[Yousef Shawky Mohamed](https://github.com/thedarkevil987)  | 2001500 |
+| 4 |[Omar Saleh Mohamed Abdo](https://github.com/MrMariodude)  | 2001993 |
+| 5 |[Ahmad Youssef Mansour Mahfouz](https://github.com/rye141200) | 2002238 |
 
