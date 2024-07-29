@@ -42,7 +42,7 @@ pip install -U matplotlib
 7. **Model Selection**: Choose the best-performing model based on the evaluation metrics.
 
 ## Results
-- The Logistic Regression model achieved the highest F1-score, making it the recommended model for predicting income levels.
+- The Logistic Regression model achieved the highest F1-score 67%, making it the recommended model for predicting income levels.
 - Detailed results including model parameters, precision, recall, and F1-score are provided in the notebook.
 
 ## Conclusion
